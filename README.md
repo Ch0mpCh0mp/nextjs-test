@@ -1,2 +1,3 @@
 # nextjs-test
-next.js introduction 
+# next.js introduction 
+# quickstart for the next.js tutorial
